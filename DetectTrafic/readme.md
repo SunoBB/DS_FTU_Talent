@@ -17,3 +17,4 @@ sudo pacman -S libopencv-dev python-opencv python-numpy
 ```bash
 pip install opencv-python numpy
 ```
+
